@@ -1,0 +1,5 @@
+[
+  { "id": "brand1", "name": "TechCorp", "logo": "/images/brand_techcorp.png" },
+  { "id": "brand2", "name": "Fashionista", "logo": "/images/brand_fashionista.png" },
+  { "id": "brand3", "name": "HomeGoods", "logo": "/images/brand_homegoods.png" }
+]

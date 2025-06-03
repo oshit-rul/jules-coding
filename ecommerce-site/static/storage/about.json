@@ -1,0 +1,8 @@
+{
+  "title": "About Our Company",
+  "content": "<p>We are a leading e-commerce platform dedicated to providing the best products and services to our customers.</p><p>Our mission is to make online shopping easy, affordable, and enjoyable for everyone.</p>",
+  "team_members": [
+    { "name": "Alice Wonderland", "position": "CEO" },
+    { "name": "Bob The Builder", "position": "CTO" }
+  ]
+}

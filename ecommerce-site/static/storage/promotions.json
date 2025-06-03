@@ -1,0 +1,5 @@
+[
+  { "id": "promo1", "title": "Mega Sale on Electronics!", "image": "/images/slider1.jpg", "link": "/categories/electronics" },
+  { "id": "promo2", "title": "New Arrivals in Clothing", "image": "/images/slider2.jpg", "link": "/categories/clothing" },
+  { "id": "promo3", "title": "Flash Sale - Up to 50% Off!", "image": "/images/slider3.jpg", "link": "/flash-sale" }
+]
